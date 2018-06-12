@@ -10,7 +10,7 @@ namespace The_big_rely_race
     {
 
         string name = "";
-        int age = 0;
+        int age = 10;
 
 
 
