@@ -11,7 +11,7 @@ namespace The_big_rely_race
         static void Main(string[] args)
         {
 
-            int age = 0;
+            int age = 13;
             string name = "John";
             decimal height = 0.00M;
             float weight = 0.00f;
